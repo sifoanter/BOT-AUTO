@@ -31,12 +31,11 @@
 
 ## 🧰 طريقة التثبيت والتشغيل
 
-
 ```bash
-git clone https://github.com/username/project.git
-cd project
-npm install
-node index.js.```
+-git clone https://github.com/username/project.git
+-cd project
+-npm install
+-node index.js```
 ---
 
 ## 🚀 طريقة الاستخدام
