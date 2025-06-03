@@ -36,7 +36,7 @@
 git clone https://github.com/username/project.git
 cd project
 npm install
-node index.js ```
+node index.js. ```
 
 ---
 
