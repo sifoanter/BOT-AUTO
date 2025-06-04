@@ -2,9 +2,7 @@
 <p align="center">بوت نيرو بوت مسنجر جميل تم تطويره من قبل سيف الدين عنتر</p>
 <p align="center">
   <a href="https://www.facebook.com/sifo.anter.2025">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" />
-  </a>
-</p>
+>![nero](https://iili.io/FJtZPnV.jpg)
 
 ---
 
