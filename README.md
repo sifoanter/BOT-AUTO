@@ -43,7 +43,9 @@ node index.js
 ---
 ## ✨c3c fb 
 >✅ **ادخل الى ملف account.txt واضف حسابك**
-[![كوكيز](https://cdn-icons-png.flaticon.com/128/1047/1047711.png)](https://example.com)
+[![كوكيز](https://cdn-icons-png.flaticon.com/128/1047/1047711.png)](https://chromewebstore.google.com/detail/c3c-fbstate-utility/nlgehefndkobdignlfhapfpggielmdph?pli=1)
+- نزل كيوي او اي متصفح يدعم اضفات الكروم 
+-اضف هذه الاضافة
 ---
 
 ## 🚀 طريقة الاستخدام
