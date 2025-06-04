@@ -41,6 +41,10 @@ node index.js
 ```
 
 ---
+## ✨c3c fb 
+>✅ **ادخل الى ملف account.txt واضف حسابك**
+[![كوكيز](https://cdn-icons-png.flaticon.com/128/1047/1047711.png)](https://example.com)
+---
 
 ## 🚀 طريقة الاستخدام
 
