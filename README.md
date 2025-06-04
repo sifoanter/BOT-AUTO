@@ -34,8 +34,8 @@
 > اتبع الخطوات التالية لتشغيل البوت على جهازك:
 
 ```bash
-git clone https://github.com/username/project.git
-cd project
+git clone https://github.com/sifoanter05/Nero-bot
+cd Nero-bot
 npm install
 node index.js
 ```
